@@ -1,5 +1,5 @@
-IPL-2022-Power-BI-DashBoard
-About Dataset Complete Match-wise data of IPL 2022
+# IPL-2022-Power-BI-DashBoard
+## About Dataset Complete Match-wise data of IPL 2022
 
 Content This dataset contains Matchwise data of IPL matches 2022 (March26 - May29 2022) ,The complete data of group stage matches.
 
